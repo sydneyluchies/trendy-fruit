@@ -17,17 +17,30 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
 }
 
 .trend-one {
   background-color: #e97065;
 }
 
+.trend-one h2 {
+  font-family: "Rammetto One", cursive;
+}
+
 .trend-two {
   background-color: #fbd25e;
 }
 
+.trend-two h2 {
+  font-family: "Gravitas One", cursive;
+}
+
 .trend-three {
   background-color: #e86033;
+}
+
+.trend-three h2 {
+  font-family: 'Comfortaa', cursive;
 }
